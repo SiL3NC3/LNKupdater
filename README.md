@@ -1,9 +1,6 @@
 # LNKupdater
 Small tool to edit/update TargetURL of multiple LNK-files (windows shortcuts) with find and replace (string)
 
-![Screen1](http://media4mation.com/downloads/LNKupdater/LNKupdater.png)
-![Screen2](http://media4mation.com/downloads/LNKupdater/LNKupdater2.png)
-
 LNKupdater is a tool (programmed in C#) to manipulate the TargetURL of programm links (lnk-files) of Windows.
 
 Just choose a directory, with the option for recursive (sub-directories) and set a Filename-Filter, if wanted.
@@ -20,8 +17,6 @@ After clicking "REPLACE" button all listed files will be updated with search and
 
 **Additional function:**
 All listed files can be removed with the "Delete Files" button.
-
-**DOWNLOAD** standalone EXECUTABLE [here](http://media4mation.com/downloads/LNKupdater/LNKupdater.zip)
 
 Njoy my first C# open source project. 
 
